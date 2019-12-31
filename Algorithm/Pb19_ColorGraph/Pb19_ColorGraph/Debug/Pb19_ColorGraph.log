@@ -1,0 +1,10 @@
+﻿  colorGraph.c
+c:\users\msi\desktop\jh\o\19-2\알고리즘\problem\pb19_colorgraph\pb19_colorgraph\colorgraph.c(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\msi\desktop\jh\o\19-2\알고리즘\problem\pb19_colorgraph\pb19_colorgraph\colorgraph.c(26): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\msi\desktop\jh\o\19-2\알고리즘\problem\pb19_colorgraph\pb19_colorgraph\colorgraph.c(42): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\msi\desktop\jh\o\19-2\알고리즘\problem\pb19_colorgraph\pb19_colorgraph\colorgraph.c(44): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+  Pb19_ColorGraph.vcxproj -> C:\Users\MSI\Desktop\JH\O\19-2\알고리즘\Problem\Pb19_ColorGraph\Debug\Pb19_ColorGraph.exe

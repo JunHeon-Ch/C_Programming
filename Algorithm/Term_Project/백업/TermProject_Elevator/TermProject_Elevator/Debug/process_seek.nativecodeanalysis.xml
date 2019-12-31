@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\nda11\Desktop\알고리즘 텀프로젝트\TermProject_Elevator\TermProject_Elevator\</FILEPATH>
+      <FILENAME>process_seek.c</FILENAME>
+      <LINE>172</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>초기화되지 않은 메모리 'mini'을(를) 사용하고 있습니다.</DESCRIPTION>
+    <FUNCTION>seek_elevator</FUNCTION>
+    <DECORATED>seek_elevator</DECORATED>
+    <FUNCLINE>69</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\nda11\Desktop\알고리즘 텀프로젝트\TermProject_Elevator\TermProject_Elevator\</FILEPATH>
+        <FILENAME>process_seek.c</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\nda11\Desktop\알고리즘 텀프로젝트\TermProject_Elevator\TermProject_Elevator\</FILEPATH>
+        <FILENAME>process_seek.c</FILENAME>
+        <LINE>70</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>선언</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'mini'이(가) 초기화되지 않았습니다.</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\nda11\Desktop\알고리즘 텀프로젝트\TermProject_Elevator\TermProject_Elevator\</FILEPATH>
+        <FILENAME>process_seek.c</FILENAME>
+        <LINE>71</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\nda11\Desktop\알고리즘 텀프로젝트\TermProject_Elevator\TermProject_Elevator\</FILEPATH>
+        <FILENAME>process_seek.c</FILENAME>
+        <LINE>71</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\nda11\Desktop\알고리즘 텀프로젝트\TermProject_Elevator\TermProject_Elevator\</FILEPATH>
+        <FILENAME>process_seek.c</FILENAME>
+        <LINE>72</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\nda11\Desktop\알고리즘 텀프로젝트\TermProject_Elevator\TermProject_Elevator\</FILEPATH>
+        <FILENAME>process_seek.c</FILENAME>
+        <LINE>74</LINE>
+        <COLUMN>13</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>분기</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>이 분기 건너뛰기, ('up_down==1'이(가) false라고 가정)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\nda11\Desktop\알고리즘 텀프로젝트\TermProject_Elevator\TermProject_Elevator\</FILEPATH>
+        <FILENAME>process_seek.c</FILENAME>
+        <LINE>123</LINE>
+        <COLUMN>18</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>분기</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>이 분기 건너뛰기, ('up_down==2'이(가) false라고 가정)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\nda11\Desktop\알고리즘 텀프로젝트\TermProject_Elevator\TermProject_Elevator\</FILEPATH>
+        <FILENAME>process_seek.c</FILENAME>
+        <LINE>172</LINE>
+        <COLUMN>1</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>C:\Users\nda11\Desktop\알고리즘 텀프로젝트\TermProject_Elevator\TermProject_Elevator\</FILEPATH>
+        <FILENAME>process_seek.c</FILENAME>
+        <LINE>172</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>사용법</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'mini'이(가) 사용되는데 초기화되지 않았을 수 있습니다.</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,13 @@
+﻿  cleanCampus.c
+c:\users\msi\desktop\jh\o\19-2\알고리즘\problem\pb15_cleancampus_jarvis\pb15_cleancampus_jarvis\cleancampus.c(49): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msi\desktop\jh\o\19-2\알고리즘\problem\pb15_cleancampus_jarvis\pb15_cleancampus_jarvis\cleancampus.c(37): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+c:\users\msi\desktop\jh\o\19-2\알고리즘\problem\pb15_cleancampus_jarvis\pb15_cleancampus_jarvis\cleancampus.c(41): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\msi\desktop\jh\o\19-2\알고리즘\problem\pb15_cleancampus_jarvis\pb15_cleancampus_jarvis\cleancampus.c(44): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\msi\desktop\jh\o\19-2\알고리즘\problem\pb15_cleancampus_jarvis\pb15_cleancampus_jarvis\cleancampus.c(51): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+c:\users\msi\desktop\jh\o\19-2\알고리즘\problem\pb15_cleancampus_jarvis\pb15_cleancampus_jarvis\cleancampus.c(100): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\msi\desktop\jh\o\19-2\알고리즘\problem\pb15_cleancampus_jarvis\pb15_cleancampus_jarvis\cleancampus.c(165): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Pb15_CleanCampus_Jarvis.vcxproj -> C:\Users\MSI\Desktop\JH\O\19-2\알고리즘\Problem\Pb15_CleanCampus_Jarvis\Debug\Pb15_CleanCampus_Jarvis.exe
